@@ -1,0 +1,27 @@
+Results for fifo scheduling:
+Number of processes: 513
+Total elapsed time (for the scheduler): 15182
+Throughput (Number of processes executed in one unit of CPU burst time):0.03379001449084442
+CPU utilization: 3.38%
+Average waiting time (in CPU burst times): 17.651072124756336
+Average turnaround time (in CPU burst times): 38.93567251461988
+Average response time (in CPU burst times): 17.651072124756336
+
+Results for sjf scheduling:
+Number of processes: 513
+Total elapsed time (for the scheduler): 15182
+Throughput (Number of processes executed in one unit of CPU burst time):0.03379001449084442
+CPU utilization: 3.38%
+Average waiting time (in CPU burst times): 14.083820662768032
+Average turnaround time (in CPU burst times): 35.36842105263158
+Average response time (in CPU burst times): 14.083820662768032
+
+Results for fifo scheduling:
+Number of processes: 513
+Total elapsed time (for the scheduler): 15182
+Throughput (Number of processes executed in one unit of CPU burst time):0.03379001449084442
+CPU utilization: 3.38%
+Average waiting time (in CPU burst times): 17.651072124756336
+Average turnaround time (in CPU burst times): 38.93567251461988
+Average response time (in CPU burst times): 17.651072124756336
+
